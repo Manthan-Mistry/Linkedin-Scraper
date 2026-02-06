@@ -1,0 +1,55 @@
+{
+  "name": "Manthan Mistry",
+  "headline": "Data Analyst || Google certified BI analyst || Power BI || DAX || Power Query || Excel || SQL || Python",
+  "about": [],
+  "education": [
+    {
+      "institution": "Vishwakarma Government Engineering College",
+      "degree": "Instrumentation and control, Automation Engineer Technology/Technician",
+      "duration": "2018 - 2022"
+    }
+  ],
+  "experience": [
+    {
+      "company_name": "MedTourEasy · Internship",
+      "duration": "",
+      "designations": [
+        {
+          "role": "Business Analyst",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "company_name": "MeriSKILL · Internship",
+      "duration": "",
+      "designations": [
+        {
+          "role": "Data Analyst",
+          "duration": "Nov 2023 to Dec 2023 · 2 mos"
+        }
+      ]
+    },
+    {
+      "company_name": "Afame Technologies",
+      "duration": "Internship · 1 mo",
+      "designations": [
+        {
+          "designation": "Data Analyst",
+          "duration": ""
+        },
+        {
+          "designation": "Data Analyst Intern",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "projects": {
+    "projects": []
+  },
+  "courses": {
+    "courses": []
+  },
+  "licenses_and_certifications": []
+}
